@@ -1,6 +1,6 @@
 //
 //  CommonClass.swift
-//  SyncracyTest
+//  AssignmentTest
 //
 //  Created by Anil on 04/04/21.
 //

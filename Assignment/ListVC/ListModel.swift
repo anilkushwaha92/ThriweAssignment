@@ -1,6 +1,6 @@
 //
 //  ListModel.swift
-//  SyncracyTest
+//  AssignmentTest
 //
 //  Created by Anil on 02/04/21.
 //
